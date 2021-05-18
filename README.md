@@ -1,2 +1,2 @@
 # git-example
-This is an example of how to use GitHub/
+Reaching out a dev branch.
